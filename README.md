@@ -1,4 +1,7 @@
-# api documentation for  [gulp-scss (v1.4.0)](https://github.com/forumouth/gulp-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-scss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-scss)
+# npmdoc-gulp-scss
+
+#### basic api documentation for  [gulp-scss (v1.4.0)](https://github.com/forumouth/gulp-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-scss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-scss)
+
 #### Gulp plugin for sass stylesheet compiler by standard approach
 
 [![NPM](https://nodei.co/npm/gulp-scss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-scss)
@@ -80,7 +83,8 @@
         "compile": "gulp compile",
         "test": "gulp unit-test integration-test"
     },
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "bin": {}
 }
 ```
 
